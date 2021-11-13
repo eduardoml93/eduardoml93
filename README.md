@@ -26,3 +26,4 @@
 [![Instagram: e.duardoml](https://img.shields.io/badge/-@e.duardoml-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/e.duardoml/)](https://instagram.com/e.duardoml/)
 [![Gmail Badge](https://img.shields.io/badge/-eduardo.moreni1@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardo.moreni1@gmail.com)](mailto:eduardo.moreni1@gmail.com)
 [![GitHub eduardoml93]( https://img.shields.io/github/followers/eduardoml93?label=follow&style=social)](https://github.com/eduardoml93)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)(18997957600)
