@@ -20,7 +20,7 @@
 <br/>
 
 <a href="https://github.com/eduardoml93">
-  <img src="https://github-readme-stats.vercel.app/api?username=<USERNAME>&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=<eduardoml93>&show_icons=true&theme=tokyonight"/>
 </a>
 
 <br/>
