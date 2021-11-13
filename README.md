@@ -4,7 +4,7 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções para a Análise de Dados.
 - 🎓 &nbsp; Graduado em Licenciatura em Física na <a href="https://www.fct.unesp.br/">UNESP-FCT</a>.
 - 💼 &nbsp; Em busca de vaga de estágio ou Junior na área de Análise de Dados.
-- 🌱 &nbsp; Aprendendo cada dia mais sobre ferramentas como Excel, Power BI, SQL, Python e outras essenciais para a Análise de Dados.
+- 🌱 &nbsp; Aprendendo cada dia mais sobre as ferramentas: Excel, Power BI, SQL, Python e outras essenciais para a Análise de Dados.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
