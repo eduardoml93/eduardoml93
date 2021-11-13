@@ -25,4 +25,4 @@
 [![Linkedin: Eduardo M Lopes](https://img.shields.io/badge/-EduardoMLopes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-moreni-lopes-5b2712214/)](https://www.linkedin.com/in/eduardo-moreni-lopes-5b2712214/)
 [![Instagram: e.duardoml](https://img.shields.io/badge/-@e.duardoml-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/e.duardoml/)](https://instagram.com/e.duardoml/)
 [![Gmail Badge](https://img.shields.io/badge/-eduardo.moreni1@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardo.moreni1@gmail.com)](mailto:eduardo.moreni1@gmail.com)
-[![GitHub eduardoml93]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/eduardoml93)
+[![GitHub eduardoml93]( https://img.shields.io/github/followers/eduardoml93?label=follow&style=social)](https://github.com/eduardoml93)
