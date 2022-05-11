@@ -1,7 +1,7 @@
 
 <h3> :man: &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Músico (baixista), Física e explorando novas tecnologias e aprofundando os conhecimentos na Análise de Dados.
+- 🤔 &nbsp; Músico (baixista), Física e explorando novas tecnologias e aprofundando os conhecimentos na Análise de Dados e Engenharia de Dados.
 - 🎓 &nbsp; Graduado em Licenciatura em Física na <a href="https://www.fct.unesp.br/">UNESP-FCT</a>.
 - 🌱 &nbsp; Aprendendo cada dia mais sobre as ferramentas: Excel, Power BI, SQL, Python e outras essenciais para a Análise de Dados.
 - 💼 &nbsp; Engenheiro de Dados Trainee @BlueShift 
