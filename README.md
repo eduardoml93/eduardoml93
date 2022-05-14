@@ -4,7 +4,7 @@
 - 🤔 &nbsp; Músico (baixista), Física e explorando novas tecnologias e aprofundando os conhecimentos na Análise de Dados e Engenharia de Dados.
 - 🎓 &nbsp; Graduado em Licenciatura em Física na <a href="https://www.fct.unesp.br/">UNESP-FCT</a>.
 - 🌱 &nbsp; Aprendendo cada dia mais sobre as ferramentas: Excel, Power BI, SQL, Python e nuvem Azure para Engenharia de Dados.
-- 💼 &nbsp; Engenheiro de Dados Trainee @BlueShift 
+- 💼 &nbsp; Engenheiro de Dados Trainee @BlueShift Brasil
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
