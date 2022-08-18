@@ -9,7 +9,7 @@
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
 **Aplicações e Dados**
- ![My Skills](https://skills.thijs.gg/icons?i=python,microsoft excel,canvas,powerbi,databricks&theme=light)](https://skills.thijs.gg)
+ ![My Skills](https://skills.thijs.gg/icons?i=python,microsoftexcel,canvas,powerbi,databricks&theme=light)](https://skills.thijs.gg)
  ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
  ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
