@@ -3,7 +3,7 @@
 
 - 🤔 &nbsp; Interessado em informática & tecnologia - aprofundando os conhecimentos em Análise de Dados & Engenharia de Dados.
 - 🎓 &nbsp; Graduado em Licenciatura em Física na <a href="https://www.fct.unesp.br/">UNESP-FCT</a>.
-- 🌱 &nbsp; Aprendendo cada dia mais sobre as ferramentas: Excel, Power BI, SQL, Python e nuvem Azure para Engenharia de Dados.
+- 🌱 &nbsp; Aprendendo cada dia mais sobre as ferramentas: Excel, Power BI, SQL, Python, Databricks e nuvem Azure para Engenharia de Dados e Análise de Dados.
 - 💼 &nbsp; Engenheiro de Dados Trainee @BlueShift Brasil
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
