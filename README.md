@@ -30,6 +30,8 @@
 
 <br/>
 
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+
 [![Linkedin: Eduardo M Lopes](https://img.shields.io/badge/-EduardoMLopes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-moreni-lopes-5b2712214/)](https://www.linkedin.com/in/eduardo-moreni-lopes-5b2712214/)
 [![Instagram: eduard0ml](https://img.shields.io/badge/-@eduard0ml-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/eduard0ml/)](https://instagram.com/eduard0ml/)
 [![Gmail Badge](https://img.shields.io/badge/-eduardo.moreni1@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardo.moreni1@gmail.com)](mailto:eduardo.moreni1@gmail.com)
