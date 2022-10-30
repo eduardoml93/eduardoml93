@@ -31,6 +31,9 @@
 
 <br/>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduardoml93&theme=default)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoml93&layout=compact)](https://github.com/eduardoml93/github-readme-stats)
+
 ![](https://komarev.com/ghpvc/?username=eduardoml93)
 
 [![Linkedin: Eduardo M Lopes](https://img.shields.io/badge/-EduardoMLopes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-moreni-lopes-5b2712214/)](https://www.linkedin.com/in/eduardo-moreni-lopes-5b2712214/)
