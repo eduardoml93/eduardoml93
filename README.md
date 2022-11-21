@@ -3,7 +3,7 @@
 
 - 🤓 &nbsp; Apaixonado por Física, informática & tecnologia - aprofundando os conhecimentos em Análise de Dados & Engenharia de Dados.
 - 🎓 &nbsp; Graduado em Licenciatura em Física na <a href="https://www.fct.unesp.br/">UNESP-FCT</a>.
-- 👨‍💻 - Cursos de Análise de Dados e Engenharia de Dados na Alura
+- 👨‍💻 Cursos de Análise de Dados e Engenharia de Dados na Alura
 - 🌱 &nbsp; Experiência com linguagem Python, SQL e PySpark para Análise e ETL de Dados. Habilidades como pensamento analítico para resolução de problemas de negócio. Experiência em Big Data, Small Data e computação em nuvem utilizando a plataforma da Microsoft Azure. Processos de ETL/ELT com Jupyter Notebook, Databricks, Storage Account, Data Studio e Data Factory. Conhecimentos em modelagem de dados para construção de DW, Star Schema e Floco de Neve. Conhecimento de ferramentas de visualização de dados como Power BI e Google Data Studio para construção de dashboards.
 - 💼 &nbsp; Engenheiro de Dados @BlueShift Brasil
 
