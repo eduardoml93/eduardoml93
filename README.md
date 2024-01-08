@@ -1,7 +1,7 @@
 
 <h3> :man: &nbsp;Sobre mim </h3>
 
-- 🌱 &nbsp; Experiência com linguagem Python, SQL e PySpark para Análise, Engenharia e ETL de Dados. Habilidades como pensamento analítico para resolução de problemas de negócio. Experiência em Big Data, Small Data e computação em nuvem utilizando a plataforma da Microsoft Azure. Processos de ETL/ELT com Jupyter Notebook, Databricks, Looker Studio e Azure Data Factory. Conhecimentos em modelagem de dados para construção de DW, Star Schema, Floco de Neve e arquiteturas de um Data Lakehouse: Arquitetura Medalhão. Conhecimento de ferramentas de visualização de dados como Power BI e Looker Studio para construção de dashboards.
+- 🌱 &nbsp; Experiência com linguagem Python, Azure Functions, SQL e PySpark para Análise, Engenharia de Dados. Habilidades como pensamento analítico para resolução de problemas de negócio. Experiência em Big Data, Small Data e computação em nuvem utilizando a plataforma da Microsoft Azure. Processos de ETL/ELT com Jupyter Notebook, Databricks, Looker Studio e Azure Data Factory. Conhecimentos em modelagem de dados para construção de DW, Star Schema, Floco de Neve e arquiteturas de um Data Lakehouse: Arquitetura Medalhão. Conhecimento de ferramentas de visualização de dados como Power BI e Looker Studio para construção de dashboards.
 - 💼 &nbsp; Engenheiro de Dados Jr @BlueShift Brasil
 - 🎓 &nbsp; Graduado em Licenciatura em Física na <a href="https://www.fct.unesp.br/">UNESP-FCT</a>.
 - 🎲 &nbsp; Link para o meu <a href="https://github.com/stars/eduardoml93/lists/portifolio-e-estudos">Portifolio</a>.  
