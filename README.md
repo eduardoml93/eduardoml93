@@ -39,7 +39,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduardoml93&theme=default)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoml93&layout=compact)](https://github.com/eduardoml93/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoml93&hide_progress=true)](https://github.com/eduardoml93/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoml93&langs_count=8)](https://github.com/eduardoml93/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=eduardoml93)
 
