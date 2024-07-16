@@ -1,7 +1,7 @@
 
 <h3> :man: &nbsp;Sobre mim </h3>
 
-- 🌱 &nbsp; Experiência com linguagem Python, SQL, PySpark e Scala para Análise e Engenharia de Dados e experiência mais recente com linguagem Golang. Habilidades como pensamento analítico e análise de requisitos para resolução de problemas de negócio. Experiência em Big Data, Small Data e computação em nuvem utilizando a plataforma da Microsoft Azure. Processos de ETL/ELT com Jupyter Notebook, Databricks e Azure Data Factory. Experiência com Azure Functions para implementação de processos de computação serverless e automação de tarefas. Conhecimentos em modelagem de dados para construção de um Data Warehouse, Star Schema, Snowflake e arquiteturas de um Data Lakehouse: Arquitetura Medalhão. Experiência com ferramentas de visualização de dados como Power BI e Looker Studio para construção de dashboards e relatórios.
+- 🌱 &nbsp; Experiência com linguagem Python, SQL, PySpark e Scala para Análise e Engenharia de Dados e experiência mais recente com linguagem Golang e Kotlin. Habilidades como pensamento analítico e análise de requisitos para resolução de problemas de negócio. Experiência em Big Data, Small Data e computação em nuvem utilizando a plataforma da Microsoft Azure. Processos de ETL/ELT com Jupyter Notebook, Databricks e Azure Data Factory. Experiência com Azure Functions para implementação de processos de computação serverless e automação de tarefas. Conhecimentos em modelagem de dados para construção de um Data Warehouse, Star Schema, Snowflake e arquiteturas de um Data Lakehouse: Arquitetura Medalhão. Experiência com ferramentas de visualização de dados como Power BI para construção de dashboards e Figma para relatórios mais personalizados.
 - 💼 &nbsp; Engenheiro de Dados Jr @BlueShift Brasil
 - 🎓 &nbsp; Graduado em Licenciatura em Física na <a href="https://www.fct.unesp.br/">UNESP-FCT</a>.
 - 🎲 &nbsp; Link para o meu <a href="https://github.com/stars/eduardoml93/lists/portifolio-e-estudos">Portifolio</a>.  
@@ -11,10 +11,13 @@
 
  ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
  ![GoogleSheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+ ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
  ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+ ![Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
  ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+ ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
  ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
  ![Azure Function](https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white)
@@ -27,7 +30,6 @@
  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
  ![Microsft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
- ![Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
  ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
  ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
