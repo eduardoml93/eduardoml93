@@ -4,9 +4,9 @@
 - 🌱 &nbsp; Experiência em **Python**, **SQL**, **PySpark** e **Scala** para Análise e Engenharia de Dados.  
 - 💻 &nbsp; Especialista em **Big Data**, **Small Data** e **computação em nuvem** com **Microsoft Azure**. Experiência em **ETL/ELT**  
   (Databricks, Jupyter Notebook, Azure Data Factory) e **serverless computing** com **Azure Functions**. Conhecimentos em processos de OCR para extração de dados em PDFs e Imagens.
+  Conhecimento em **Microsoft Sustainability Manager (MSM)** para cálculo de emissões de carbono (Escopos 1, 2 e 3).
 - 📊 &nbsp; Habilidades em **modelagem de dados** (**Data Warehouse**, **Star Schema**, **OBT**, **Arquitetura Medalhão**)  
-  e visualização com **Power BI** e **Figma**.  
-- 🌍 &nbsp; Conhecimento em ** Microsoft Sustainability Manager (MSM)** para cálculo de emissões de carbono (Escopos 1, 2 e 3).  
+  e visualização com **Power BI** e **Figma**.    
 - 💼 &nbsp; **Engenheiro de Dados Jr @BlueShift Brasil**  
 - 📌 &nbsp; Atuação no **Squad de Governança de Dados e Sustentabilidade**, com foco em **ESG**, **GRI** e **Materialidade**.  
 - 🎓 &nbsp; Formado em Física pela [UNESP-FCT](https://www.fct.unesp.br/).  
