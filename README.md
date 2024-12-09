@@ -1,7 +1,7 @@
 
 <h3> :man: &nbsp;Sobre mim </h3>
 
-- 🌱 &nbsp; Experiência em **Python**, **SQL**, **PySpark** e **Scala** para Análise e Engenharia de Dados.  
+- 🌱 &nbsp; Experiência com Linguagem **Python**, **SQL**, **PySpark** e **Scala** para Análise e Engenharia de Dados.  
 - 💻 &nbsp; Especialista em **Big Data**, **Small Data** e **computação em nuvem** com **Microsoft Azure**. Experiência em **ETL/ELT**  
   (Databricks, Jupyter Notebook, Azure Data Factory) e **serverless computing** com **Azure Functions**. Conhecimentos em processos de OCR para extração de dados em PDFs e Imagens.
   Conhecimento em **Microsoft Sustainability Manager (MSM)** para cálculo de emissões de carbono (Escopos 1, 2 e 3).
