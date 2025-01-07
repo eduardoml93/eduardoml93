@@ -1,15 +1,33 @@
 
 <h3> :man: &nbsp;Sobre mim </h3>
 
-- 🌱 &nbsp; Experiência com Linguagem **Python**, **SQL**, **PySpark** e **Scala** para **Análise** e **Engenharia de Dados**.  
-- 💻 &nbsp; Conhecimentos em **Big Data**, **Small Data** e **computação em nuvem** com **Microsoft Azure**. Experiência em **ETL/ELT**  
-  (Databricks, Jupyter Notebook, Azure Data Factory) e **serverless computing** com **Azure Functions**. Conhecimentos em processos de OCR para extração de dados em PDFs e Imagens.
-  Conhecimento em **Microsoft Sustainability Manager (MSM)** para cálculo de emissões de carbono (Escopos 1, 2 e 3).
-- 📊 &nbsp; Habilidades em **modelagem de dados** (**Data Warehouse**, **Star Schema**, **OBT**, **Arquitetura Medalhão**)  
-  e visualização com **Power BI** e **Figma**.    
-- 💼 &nbsp; **Engenheiro de Dados Jr @BlueShift Brasil**  
-- 📌 &nbsp; Atuação no **Squad de Governança de Dados e Sustentabilidade**, com foco em **ESG**, **GRI** e **Materialidade**.  
-- 🎓 &nbsp; Formado em Física pela [UNESP-FCT](https://www.fct.unesp.br/).  
+- 🎓 **Formação:**  
+  Sou licenciado em Física pela **UNESP/FCT**, com experiência de **3 anos em Análise e Engenharia de Dados**.  
+
+- 🌟 **Principais Habilidades e Experiências:**  
+  - **Pensamento Analítico e Solução de Problemas:**  
+    - Análise de requisitos e resolução de problemas de negócio.  
+    - Conhecimento na ferramenta **Microsoft Sustainability Manager (MSM)** para cálculo de emissões de carbono (**Escopos 1, 2 e 3**).  
+    - Aplicação de princípios **ESG (Environmental, Social, and Governance)** em projetos de análise e gestão de dados, incluindo ferramentas para rastreamento de sustentabilidade e relatórios de impacto.  
+
+  - **Big Data e Small Data:**  
+    - Experiência em processamento de dados e computação em nuvem com **Microsoft Azure** e **Amazon Web Services (AWS)**.  
+
+  - **Processos de ETL/ELT:**  
+    - Desenvolvimento utilizando **Jupyter Notebook**, **Databricks** e **Azure Data Factory**.  
+
+  - **Serverless e Automação:**  
+    - Implementação de processos serverless com **Azure Functions** e **AWS Lambda**.  
+    - Conhecimentos em **OCR** para extração de dados de PDFs e imagens.  
+
+  - **Modelagem de Dados:**  
+    - Criação de **Data Warehouses** com **Star Schema**, **One Big Table (OBT)**, **Snowflake**, e arquiteturas **Data Lakehouse** (Arquitetura Medalhão: **Bronze, Silver e Gold**).  
+
+  - **Visualização de Dados:**  
+    - Desenvolvimento de dashboards no **Power BI** e criação de layouts personalizados no **Figma**.  
+
+- 💻 **Sempre em busca de desafios** para aplicar e expandir minhas habilidades em **tecnologia, análise e engenharia de dados**.  
+
 
 - 🎲 &nbsp; Veja meu [Portfólio](https://github.com/stars/eduardoml93/lists/portifolio-e-estudos).  
 
