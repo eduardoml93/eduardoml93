@@ -29,9 +29,6 @@
 - 💻 **Sempre em busca de desafios** para aplicar e expandir minhas habilidades em **tecnologia, análise e engenharia de dados**.  
 
 
-- 🎲 &nbsp; Veja meu [Portfólio](https://github.com/stars/eduardoml93/lists/portifolio-e-estudos).  
-
-
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
 
