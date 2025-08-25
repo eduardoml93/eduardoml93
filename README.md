@@ -4,30 +4,30 @@
 - 🎓 **Formação:**  
   Sou licenciado em Física pela **UNESP/FCT**, com experiência de **3 anos em Análise e Engenharia de Dados**.  
 
-# 🌟 Principais Habilidades e Experiências
+# Principais Habilidades e Experiências
 
-## 🔹 Pensamento Analítico e Solução de Problemas
-- Forte capacidade de traduzir **necessidades de negócio** em soluções técnicas eficientes.  
-- Experiência em **análise de requisitos**, identificação de gargalos e **otimização de processos** baseados em dados.  
+### Pensamento Analítico e Solução de Problemas
+- Forte capacidade de traduzir necessidades de negócio em soluções técnicas eficientes.  
+- Experiência em análise de requisitos, identificação de gargalos e otimização de processos baseados em dados.  
 
-## 🔹 Big Data e Small Data
-- Vivência em projetos de **alta volumetria de dados**, desde integrações simples até arquiteturas robustas em nuvem.  
-- Experiência prática em **Microsoft Azure** e **Amazon Web Services (AWS)** para orquestração, **processamento distribuído** e **governança de dados**.  
+### Big Data e Small Data
+- Conhecimentos aplicados em projetos de alta volumetria de dados, desde integrações simples até arquiteturas escaláveis em nuvem.  
+- Experiência prática em Microsoft Azure, Amazon Web Services (AWS) e Apache Spark/PySpark para orquestração, processamento distribuído e governança de dados.  
 
-## 🔹 Processos de ETL/ELT
-- Desenvolvimento de **pipelines de dados** em **Jupyter Notebook**, **Databricks** e **Azure Data Factory**, garantindo **qualidade, rastreabilidade e escalabilidade**.  
-- Criação de **fluxos automatizados** para integrar múltiplas fontes e disponibilizar informações estratégicas em **tempo real**.  
+### Processos de ETL/ELT
+- Desenvolvimento de pipelines de dados em Jupyter Notebook, Databricks (com PySpark) e Azure Data Factory, garantindo qualidade, rastreabilidade e escalabilidade.  
+- Criação de fluxos automatizados para integrar múltiplas fontes e disponibilizar informações estratégicas em tempo real.  
 
-## 🔹 Serverless e Automação
-- Implementação de soluções **escaláveis e de baixo custo** utilizando **Azure Functions** e **AWS Lambda**.  
-- Aplicação de **OCR** e técnicas de **extração inteligente** para estruturar informações de PDFs, imagens e documentos não estruturados.  
+### Serverless e Automação
+- Implementação de soluções escaláveis e de baixo custo utilizando Azure Functions e AWS Lambda.  
+- Aplicação de OCR e técnicas de extração inteligente para estruturar informações de PDFs, imagens e documentos não estruturados.  
 
-## 🔹 Modelagem de Dados e Arquitetura
-- Construção de **Data Warehouses** otimizados com **Star Schema**, **Snowflake**, **One Big Table (OBT)** e arquiteturas **Data Lakehouse** (Arquitetura Medalhão: Bronze, Silver e Gold).  
-- Definição de **modelos dimensionais e factuais** alinhados a práticas de **BI e Analytics** para suportar a **tomada de decisão estratégica**.  
+### Modelagem de Dados e Arquitetura
+- Construção de Data Warehouses otimizados com Star Schema, Snowflake, One Big Table (OBT) e arquiteturas Data Lakehouse (Arquitetura Medalhão: Bronze, Silver e Gold).  
+- Definição de modelos dimensionais e factuais alinhados a práticas de BI e Analytics para suportar a tomada de decisão estratégica.  
 
-## 🔹 Visualização de Dados e Storytelling
-- Desenvolvimento de **dashboards interativos no Power BI** com foco em **insights acionáveis** e **experiência do usuário**.
+### Visualização de Dados e Storytelling
+- Desenvolvimento de dashboards interativos no Power BI com foco em insights acionáveis e experiência do usuário. 
 
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
