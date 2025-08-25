@@ -27,11 +27,7 @@
 - Definição de **modelos dimensionais e factuais** alinhados a práticas de **BI e Analytics** para suportar a **tomada de decisão estratégica**.  
 
 ## 🔹 Visualização de Dados e Storytelling
-- Desenvolvimento de **dashboards interativos no Power BI** com foco em **insights acionáveis** e **experiência do usuário**.  
-- Criação de **layouts personalizados no Figma**, unindo design e usabilidade para melhorar a **comunicação de dados**.  
-
-
-- 💻 **Sempre em busca de desafios** para aplicar e expandir minhas habilidades em **tecnologia, análise e engenharia de dados**.  
+- Desenvolvimento de **dashboards interativos no Power BI** com foco em **insights acionáveis** e **experiência do usuário**.
 
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
