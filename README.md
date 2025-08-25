@@ -7,8 +7,6 @@
 - 🌟 **Principais Habilidades e Experiências:**  
   - **Pensamento Analítico e Solução de Problemas:**  
     - Análise de requisitos e resolução de problemas de negócio.  
-    - Conhecimento na ferramenta **Microsoft Sustainability Manager (MSM)** para cálculo de emissões de carbono (**Escopos 1, 2 e 3**).  
-    - Aplicação de princípios **ESG (Environmental, Social, and Governance)** em projetos de análise e gestão de dados, incluindo ferramentas para rastreamento de sustentabilidade e relatórios de impacto.  
 
   - **Big Data e Small Data:**  
     - Experiência em processamento de dados e computação em nuvem com **Microsoft Azure** e **Amazon Web Services (AWS)**.  
