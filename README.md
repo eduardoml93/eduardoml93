@@ -30,7 +30,7 @@
 - Desenvolvimento de dashboards interativos no Power BI com foco em insights acionáveis e experiência do usuário. 
 
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<h3> :rocket: &nbsp;Tecnologias que mais utilizo: </h3>
 
 
  ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
