@@ -61,11 +61,6 @@
  ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
 
-<br/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardoml93&show_icons=true&theme=tokyonight"/>
-
-<br/>
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduardoml93&theme=default)
 
 ![](https://komarev.com/ghpvc/?username=eduardoml93)
