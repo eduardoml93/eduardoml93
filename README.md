@@ -2,7 +2,7 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 🎓 **Formação:**  
-  Sou licenciado em Física pela **UNESP/FCT**, com experiência de **3 anos em Engenharia de Dados**.  
+  Sou licenciado em Física pela **UNESP/FCT**, com experiência de **4 anos em Engenharia de Dados**.  
 
 # Principais Habilidades e Experiências
 
